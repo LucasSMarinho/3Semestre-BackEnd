@@ -3,31 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Exercicio4
+namespace Exercicio5
 {
     public class Pessoa
     {
      public string Nome = "";
      public int Idade = 0;   
      
-     public Pessoa(string n, int i)
+     public Pessoa()
      {
-        if(i => 0)
-        {
-            Nome = n;
-            Idade = i;
-        }
-        else
-        {
-            Console.WriteLine($"A idade não pode ser definida menor 0");
-            Nome = n;
-            Idade = 0;
-        }
+        Nome = "";
      }
 
      public void ExibirDados()
      {
-        Console.WriteLine($"{Nome} e {Idade} anos");
+        Console.WriteLine($"{Nome} tem {Idade} anos");
      }
 
      public void DefinirIdade()

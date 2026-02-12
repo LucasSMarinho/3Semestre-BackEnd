@@ -1,5 +1,10 @@
-﻿using Exercicio3;
+﻿using Exercicio5;
 
-Pessoa P1 = new Pessoa("Maria", 18);
+Funcionário P1 = new Funcionário();
+
+
+P1.DefinirNome();
+P1.DefinirIdade();
+P1.DefinirSalario();
 
 P1.ExibirDados();

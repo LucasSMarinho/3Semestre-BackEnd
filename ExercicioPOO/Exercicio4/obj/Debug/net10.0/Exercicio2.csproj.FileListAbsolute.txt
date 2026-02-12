@@ -12,3 +12,18 @@ C:\Users\45193262813\Desktop\ExercicioPOO\Exercicio3\obj\Debug\net10.0\refint\Ex
 C:\Users\45193262813\Desktop\ExercicioPOO\Exercicio3\obj\Debug\net10.0\Exercicio2.pdb
 C:\Users\45193262813\Desktop\ExercicioPOO\Exercicio3\obj\Debug\net10.0\Exercicio2.genruntimeconfig.cache
 C:\Users\45193262813\Desktop\ExercicioPOO\Exercicio3\obj\Debug\net10.0\ref\Exercicio2.dll
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.AssemblyInfo.cs
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.sourcelink.json
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.dll
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\refint\Exercicio2.dll
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.pdb
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\bin\Debug\net10.0\Exercicio2.exe
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\bin\Debug\net10.0\Exercicio2.deps.json
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\bin\Debug\net10.0\Exercicio2.runtimeconfig.json
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\bin\Debug\net10.0\Exercicio2.dll
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\bin\Debug\net10.0\Exercicio2.pdb
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\Exercicio2.genruntimeconfig.cache
+C:\Users\45193262813\Desktop\Back End - Terceiro Semestre\ExercicioPOO\Exercicio4\obj\Debug\net10.0\ref\Exercicio2.dll

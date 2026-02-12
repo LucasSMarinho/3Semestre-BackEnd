@@ -10,24 +10,14 @@ namespace Exercicio4
      public string Nome = "";
      public int Idade = 0;   
      
-     public Pessoa(string n, int i)
+     public Pessoa(string n)
      {
-        if(i => 0)
-        {
             Nome = n;
-            Idade = i;
-        }
-        else
-        {
-            Console.WriteLine($"A idade não pode ser definida menor 0");
-            Nome = n;
-            Idade = 0;
-        }
      }
 
      public void ExibirDados()
      {
-        Console.WriteLine($"{Nome} e {Idade} anos");
+        Console.WriteLine($"{Nome} tem {Idade} anos");
      }
 
      public void DefinirIdade()
